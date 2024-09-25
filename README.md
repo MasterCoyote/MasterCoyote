@@ -3,18 +3,34 @@
 ✨Emmanuel Jimenez✨
 
 I'm a Cybersecurity Engineer 💻
+
 </h2>
+
 I have a strong background in cybersecurity and artrifical intellegence, have worked as a engineer. I am able to take ownership of project and see it through to completion, ensuring that all deadlines are met and the end product reaches the highest quality. 
 
 
-##💼Technical Skills
+
+💼Technical Skills
+
 
 🖥️Frontend 
 
 
 ⚙️Backend
 
-Database
+
+🗄️Database
+
+
+☁️Deployment
+
+
+🤝Collaboration
+
+
+
+
+
 
  
 <!--
