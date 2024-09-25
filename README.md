@@ -18,11 +18,14 @@ I have a strong background in cybersecurity and artrifical intellegence, have wo
 ### ⚙️ Backend
 
 
-### 🗄️ Database
+### <img src="database.svg" width="25px"> Database
 
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ☁️ Deployment
+### <img src="deployment.svg" width="25px"> Deployment
 
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🤝 Collaboration
 
