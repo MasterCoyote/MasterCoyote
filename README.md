@@ -26,6 +26,11 @@ I have a strong background in cybersecurity and artrifical intellegence, have wo
 
 ### 🤝 Collaboration
 
+![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 ## 📲 Connect with me
 
 💭 Please do not hesitate to reach out to me!
