@@ -13,10 +13,10 @@ I have a strong background in cybersecurity and artrifical intellegence, have wo
 ## 💼 Technical Skills
 
 ### 🖥️ Frontend 
-
+(NEED TO UPDATE)
 
 ### ⚙️ Backend
-
+(NEED TO UPDATE)
 
 ### 🗄️ Database
 
