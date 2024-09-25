@@ -13,23 +13,28 @@ I'm a Cybersecurity Engineer 💻
 I have a strong background in cybersecurity and artrifical intellegence, have worked as a engineer. I am able to take ownership of project and see it through to completion, ensuring that all deadlines are met and the end product reaches the highest quality. 
 
 
-
-💼Technical Skills
-
-
-🖥️Frontend 
+## 💼Technical Skills
 
 
-⚙️Backend
+### 🖥️Frontend 
 
 
-🗄️Database
+### ⚙️Backend
 
 
-☁️Deployment
+### 🗄️Database
 
 
-🤝Collaboration
+### ☁️Deployment
+
+
+### 🤝Collaboration
+
+## 📲 Connect with me
+
+💭Please do not hesitate to reach out to me!
+
+- <a href="https://www.linkedin.com/in/emmanueljimenezsec"><img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="25px"/> LinkedIn</a>
 
 
 
